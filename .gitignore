@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.fastq.gz
+*.bam
+*.sam
+*.DS_Store
